@@ -44,14 +44,6 @@ Ahram Canadian University — *Sep 2020 – Jul 2024*
 
 ---
 
-## 💼 Internship Experience
-- **Full Stack .NET Intern** @ DEPI *(Jun 2025 – Present)*  
-- **Full Stack Developer** @ Botit *(Nov 2024 – May 2025)*  
-- **Backend Developer MVC** @ HERO MEA *(Aug 2024 – Sep 2024)*  
-- **.NET Intern** @ QNB ALAHLI *(Aug 2023 – Sep 2023)*  
-
----
-
 ## 🌐 Get in Touch
 - 📧 [Ahmedkhaled910000@gmail.com](mailto:Ahmedkhaled910000@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/ahmedkln)  
